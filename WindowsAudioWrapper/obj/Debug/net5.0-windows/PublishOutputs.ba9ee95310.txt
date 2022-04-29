@@ -1,0 +1,15 @@
+D:\My_Software_Apps\Wrappers\WindowsAudio\SYWPipeNetworkManager.exe
+D:\My_Software_Apps\Wrappers\WindowsAudio\WindowsAudioWrapper.exe
+D:\My_Software_Apps\Wrappers\WindowsAudio\SYWPipeNetworkManager.deps.json
+D:\My_Software_Apps\Wrappers\WindowsAudio\SYWPipeNetworkManager.runtimeconfig.json
+D:\My_Software_Apps\Wrappers\WindowsAudio\WindowsAudioWrapper.dll
+D:\My_Software_Apps\Wrappers\WindowsAudio\WindowsAudioWrapper.deps.json
+D:\My_Software_Apps\Wrappers\WindowsAudio\WindowsAudioWrapper.runtimeconfig.json
+D:\My_Software_Apps\Wrappers\WindowsAudio\WindowsAudioWrapper.pdb
+D:\My_Software_Apps\Wrappers\WindowsAudio\SyslogNet.Client.dll
+D:\My_Software_Apps\Wrappers\WindowsAudio\SYWCentralLogging.dll
+D:\My_Software_Apps\Wrappers\WindowsAudio\SYWPipeNetworkManager.dll
+D:\My_Software_Apps\Wrappers\WindowsAudio\WindowsAudioWrapper.Core.dll
+D:\My_Software_Apps\Wrappers\WindowsAudio\WindowsAudioWrapper.Core.pdb
+D:\My_Software_Apps\Wrappers\WindowsAudio\SYWCentralLogging.pdb
+D:\My_Software_Apps\Wrappers\WindowsAudio\SYWPipeNetworkManager.pdb
